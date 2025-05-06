@@ -1,14 +1,14 @@
 # Project Title
 
 ## Team Information
-
+Loves data too much
 ### Team Name
-*Replace this with your team name*
+DataFreak
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+1. Aadarsh Shuvam Karn(Aadarsh-00)*
+2. Diwa Shrestha (DiwaSthrestha0)*
+3. Rijan Shrestha (RijanShrestha0)*
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
